@@ -1,6 +1,6 @@
 # rfid-and-otp-based-locker-
 
-This Project is  baseed on RFID-scanner and GSM-module.
+This Project is  based on RFID-scanner and GSM-module.
 
 In these project tools used are as follow:-
 
